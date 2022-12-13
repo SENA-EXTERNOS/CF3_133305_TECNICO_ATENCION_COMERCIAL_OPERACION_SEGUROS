@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Técnicas de ventas, comunicación y propuesta comercial**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/CF3_133305_TECNICO_ATENCION_COMERCIAL_OPERACION_SEGUROS/#/](https://sena-externos.github.io/CF3_133305_TECNICO_ATENCION_COMERCIAL_OPERACION_SEGUROS/#/)
 
 #
 
