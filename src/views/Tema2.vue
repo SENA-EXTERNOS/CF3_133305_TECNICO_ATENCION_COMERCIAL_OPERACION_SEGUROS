@@ -77,7 +77,7 @@
         h5.text-center Tiempo
         p.text-center Importante en el momento de estar a tiempo o tarde, hacer esperar a otros, diferencias culturales en la percepción del tiempo y la relación entre tiempo y estatus.
 
-    p Ahora bien, la comunicación verbal puede ser de forma oral, la cual se realiza por medio de signos sonoros (fonemas) y se recibe e interpreta con el oído; también, puede ser de forma escrita, la cual se realiza mediante el uso de signos gráficos (grafemas), los cuales son percibidos con la vista.
+    p Ahora bien, #[i la comunicación verbal] puede ser de #[i forma oral], la cual se realiza por medio de signos sonoros (fonemas) y se recibe e interpreta con el oído; también, puede ser de #[i forma escrita], la cual se realiza mediante el uso de signos gráficos (grafemas), los cuales son percibidos con la vista.
 
     p.mb-5 Por otra parte, la comunicación no verbal se puede presentar de la siguiente manera:
 

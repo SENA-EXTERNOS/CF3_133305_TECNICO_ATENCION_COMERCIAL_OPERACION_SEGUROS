@@ -38,7 +38,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido.mt-5
       h2 1.1 Técnicas de ventas
 
-    p.mb-5 El equipo de ventas debe disponer de herramientas efectivas para identificar las necesidades de los clientes y relacionar estas con el portafolio de productos o servicios de la empresa. Por esto, se hace oportuno conocer las diferentes <em>técnicas de ventas</em>.
+    p.mb-5 El equipo de ventas debe disponer de herramientas efectivas para identificar las necesidades de los clientes y relacionar estas con el portafolio de productos o servicios de la empresa. Por esto, se hace oportuno conocer las diferentes <b>técnicas de ventas</b>.
 
     h3.mb-5 Técnica AIDA
 
@@ -173,7 +173,7 @@
       #t_1_2.titulo-segundo.color-acento-contenido.mt-5
         h2 1.2 Gestión del plan de ventas
 
-      p Para la construcción de cualquier <em>plan de ventas</em>, es necesario cuantificar el volumen de ventas que se realiza al cliente actual o potencial, y verificar las características de la compra y el cumplimiento del plan de ventas. Es importante mantener este registro, pues permite evaluar el logro de las proyecciones o metas y la efectividad de las estrategias en la zona geográfica o segmento.
+      p Para la construcción de cualquier <b>plan de ventas</b>, es necesario cuantificar el volumen de ventas que se realiza al cliente actual o potencial, y verificar las características de la compra y el cumplimiento del plan de ventas. Es importante mantener este registro, pues permite evaluar el logro de las proyecciones o metas y la efectividad de las estrategias en la zona geográfica o segmento.
 
       p.mb5 A continuación, se presentan los siguientes términos que hacen parte del plan de ventas.
 
@@ -195,7 +195,7 @@
 
     h3 Registro del perfil del cliente y su compra
 
-    p.mb-0 Para que las empresas puedan consolidarse en el área geográfica donde se distribuye su producto o servicio, deben realizar un registro de las ventas, teniendo en cuenta los siguientes factores: ¿cuál es el producto o servicio que más se vende?, ¿a quién se le vende?, ¿cuál es la frecuencia de compra? y ¿cuánta ganancia obtiene por cada compra?
+    p Para que las empresas puedan consolidarse en el área geográfica donde se distribuye su producto o servicio, deben realizar un registro de las ventas, teniendo en cuenta los siguientes factores: ¿cuál es el producto o servicio que más se vende?, ¿a quién se le vende?, ¿cuál es la frecuencia de compra? y ¿cuánta ganancia obtiene por cada compra?
     p.mb-5 Esto permite establecer el comportamiento de los clientes y, de esa manera, es más fácil organizar y distribuir el equipo de asesores comerciales, y los productos o servicios. En la Tabla 1, se presenta un formato de registros diligenciado como ejemplo.
 
     .row.justify-content-center.mb-5
