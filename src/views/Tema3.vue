@@ -16,7 +16,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .cajon.color-secundario.p-4.mb-4
-          p.mb-0 En el momento de elaborar una propuesta es importante plantear el objetivo y la estrategia para abarcar la atención del cliente con la elaboración de la propuesta comercial. Su objetivo es unir la necesidad del cliente con la empresa que es la oferta con todo lo mejor para ofrecerle. Por eso la propuesta debe tener aspectos de personalización para el cliente en el momento de ofrecer al cliente el producto.
+          p.mb-0 En el momento de elaborar una propuesta es importante plantear #[b el objetivo y la estrategia] para abarcar la atención del cliente con la elaboración de la propuesta comercial. Su objetivo es unir la necesidad del cliente con la empresa que es la oferta con todo lo mejor para ofrecerle. Por eso la propuesta debe tener aspectos de personalización para el cliente en el momento de ofrecer al cliente el producto.
 
     h3 Creación propuesta comercial
     p Antes de comenzar con la creación de la propuesta comercial el vendedor debe organizar los materiales que le ayudarán a impulsar la propuesta que podrían ser: el papel membretado de la empresa, el logo está en alta resolución, gráficos, tablas, cronogramas, una presentación en alguna herramienta ofimática. El uso de estos materiales tiene como finalidad despertar la atención del cliente en los productos y una vez captada la atención del cliente, se podrá entregar de forma impresa la oferta al cliente y podrá estar en carpetas personalizadas de la empresa junto con documentos que den a conocer la empresa y le brinden toda la información que el cliente necesita.

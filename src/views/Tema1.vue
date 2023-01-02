@@ -30,7 +30,7 @@
             .tarjeta.bg_tar.p-3(x="75%" y="100%" numero="+")
               p.mb-0 Productos con grandes volúmenes, son muy pesados y demandan una distribución corta, para disminuir costos por concepto de transporte y manipulación.
             .tarjeta.bg_tar.p-3(x="23%" y="100%" numero="+")
-              p.mb-0 Productos técnicos que requieren de un conductor directo. El fabricante debe tener vendedores que proporcionen servicio en la preventa y en la postventa.
+              p.mb-0 Productos técnicos que requieren de un conductor directo. El fabricante debe tener vendedores que proporcionen servicio en la preventa y en la posventa.
             .tarjeta.bg_tar.p-3(x="16%" y="61%" numero="+")
               p.mb-0 El producto, caduca o se vence rápidamente; estos productos deben venderse prontamente, para evitar pérdidas.
 
@@ -107,7 +107,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_11.svg' alt='AvatarTop')
-          h4.text-center Problema
+          h4.text-center Implicación
           p.text-center Contextualizar la mente del cliente con el problema que se ha identificado y tener un plan de acción donde lo importante es solucionar la necesidad a corto o largo plazo.
       .col-lg-3.col-xl-3.mb-4.mb-md-0.h-100
         .tarjeta.bg_1.p-4.tem_tar
@@ -219,19 +219,19 @@
               td.text-center 6
               td Jabón, champú, acondicionador
               td $50.000
-              td Lunes a jueves
+              td lunes a jueves
             tr
               td María Alejandra
               td.text-center 8
               td Arroz, pastas, harina
               td $40.000
-              td Lunes, miércoles y domingos
+              td lunes, miércoles y domingos
             tr
               td Lorena Liseth
               td.text-center 10
               td Aceite, café y chocolate
               td $70.000
-              td Sábados y domingos
+              td sábados y domingos
 
     p.mb-5 Continuando, las empresas deben revisar periódicamente <b>el cumplimiento del plan de ventas</b>, que puede tener como objetivos conseguir clientes nuevos, vender más a clientes actuales y recuperar cuentas. La idea es hacer un comparativo con las ventas reales por segmentos y el plan de ventas propuesto; de esta manera, se pueden ir asignando recursos y personal para su cumplimiento. En la Tabla 2, se presenta como ejemplo un plan de ventas.
 
@@ -292,9 +292,9 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left  
             p.mb-0 Según Ferrel y Hartline (s.f), “El control y la evaluación de la fuerza de ventas, requiere de una comparación de los objetivos de ventas con el desempeño real. Este análisis se puede realizar en el nivel de cada vendedor o para toda la fuerza de ventas. Para evaluar a un vendedor de manera efectiva, es necesario crear normas de desempeño predeterminadas. Estas normas también deben determinar el plan de compensación para la fuerza de ventas”(p. 345).
-          .bloque-texto-d__autor 
-            .h5.mb-0 Ferrel y Hartline (s.f)
             i.fas.fa-quote-right
+
+    p.mb-5 En ese sentido, podemos decir que, para implementar un plan de evaluación, control y monitoreo de la fuerza de ventas, podemos establecer los siguientes pasos:      
 
     .tarjeta.bg_3.p-4.mb-5
       PasosB.color-primario

@@ -77,7 +77,7 @@
         h5.text-center Tiempo
         p.text-center Importante en el momento de estar a tiempo o tarde, hacer esperar a otros, diferencias culturales en la percepción del tiempo y la relación entre tiempo y estatus.
 
-    p Ahora bien, #[i la comunicación verbal] puede ser de #[i forma oral], la cual se realiza por medio de signos sonoros (fonemas) y se recibe e interpreta con el oído; también, puede ser de #[i forma escrita], la cual se realiza mediante el uso de signos gráficos (grafemas), los cuales son percibidos con la vista.
+    p Ahora bien, #[b la comunicación verbal] puede ser de #[b forma oral], la cual se realiza por medio de signos sonoros (fonemas) y se recibe e interpreta con el oído; también, puede ser de #[b forma escrita], la cual se realiza mediante el uso de signos gráficos (grafemas), los cuales son percibidos con la vista.
 
     p.mb-5 Por otra parte, la comunicación no verbal se puede presentar de la siguiente manera:
 
@@ -96,6 +96,8 @@
 
     .fondo-3.p-4.mb-5
       p.mb-5 En una organización, la comunicación entre el empleado y el empleador se puede dar de diferentes maneras, según sea el cargo o nivel jerárquico que se ocupe. 
+
+      p.mb-5 De acuerdo con esto, se presentan los diferentes tipos de comunicación organizacional.
 
       .row.align-items-center.justify-content-center.mb-2(data-aos="fade-down")
         .col-9.col-lg-5.mb-3
@@ -133,7 +135,7 @@
                 h5.text-center Comunicación horizontal
                 p.mb-0 Se desarrolla entre personas del mismo nivel jerárquico.
 
-    p Del mismo modo, una de las mejores formas de comunicarse es mediante la comunicación asertiva, la cual hace referencia en dar a entender clara y concretamente el punto de vista y lo que se quiere lograr. El mensaje transmitido debe ser descifrado tal y como se quiere que sea interpretado, se trata de transmitir de forma clara, concisa, rápida, directa y con contundencia lo que se quiere, sin titubeos. 
+    p Del mismo modo, una de las mejores formas de comunicarse es mediante #[b la comunicación asertiva], la cual hace referencia en dar a entender clara y concretamente el punto de vista y lo que se quiere lograr. El mensaje transmitido debe ser descifrado tal y como se quiere que sea interpretado, se trata de transmitir de forma clara, concisa, rápida, directa y con contundencia lo que se quiere, sin titubeos. 
 
     p.mb-5 Para que la comunicación sea asertiva se necesita trabajar en:
 
@@ -151,7 +153,7 @@
         .row.justify-content-center.mb-4
           .col-8
             img(src='@/assets/curso/temas/tema_2/img_15.svg' alt='AvatarTop')
-        p.text-center Son expresiones faciales, movimiento de ojos, contacto físico y cualquier otro movimiento del cuerpo o de las extremidades.
+        p.text-center Brindar poca atención a los interlocutores.
 
       .tarjeta.bg_7.p-4.h-100
         .row.justify-content-center.mb-3
