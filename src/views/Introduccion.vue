@@ -17,7 +17,7 @@
           .bloque-texto-b__texto
             p Apreciado aprendiz, bienvenido a este componente formativo, en el que conocerá acerca de las clases de técnicas de ventas, las cuales serán utilizadas por el equipo comercial, con la finalidad de ofrecer el producto y garantizar la satisfacción del cliente, de manera que se atiendan completamente sus necesidades, inquietudes y sugerencias. También se abordarán los diferentes canales de comunicación que se dan en las organizaciones y que se deben tener presentes para comunicarse adecuadamente dentro de una empresa y respetar la jerarquía establecida. Finalmente, se presentará cómo elaborar una propuesta comercial y los puntos importantes que esta debe de contener. 
 
-    p Antes de empezar a explorar el menú de contenido, lo invitamos a ver el siguiente video, que le dará un panorama general sobre las diferentes temáticas que se van a estudiar.
+    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     p.mb-5 ¡Muchos éxitos en este proceso de aprendizaje!
 

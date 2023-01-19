@@ -14,7 +14,7 @@
         .col-lg-6.text-small
           p Las ventas, son acciones relacionadas con la capacitación, revisión, seguimiento, evaluación y control para el cumplimiento de los objetivos y las metas planteadas en el plan de ventas. En ese sentido, el equipo comercial y los recursos del área, se deben enfocar en la satisfacción del cliente, de manera que se atiendan completamente sus necesidades, inquietudes y sugerencias. Es importante cuando hablamos de ventas, dirigir y capacitar el equipo, asignar recursos, seleccionar medios de comunicación y promoción, monitorear, controlar y evaluar la gestión. También es importante tener en cuenta que deben integrarse elementos éticos en todas las acciones de mercadeo que se lleven a cabo, porque el cliente debe confiar y sentirse respaldado por la empresa. De esta forma, se garantiza el cumplimiento de los objetivos del plan de ventas. 
 
-      p.mb-5 A la hora de vender, se tienen en cuenta las características para identificar el cliente potencial, la forma de negociación y el canal de distribución. A continuación, se presentan algunas de estas características.
+      p.mb-5 A la hora de vender, se tienen en cuenta las características para identificar el cliente potencial, la forma de negociación y el canal de distribución. A continuación, se presentan algunas de estas características:
 
       .row.justify-content-center.mb-5
         .col-lg-8
@@ -44,7 +44,7 @@
 
     p Es una herramienta que valora y ayuda a mentalizar al vendedor, a crear cuadros mentales sobre el proceso de venta y su objetivo es realizar una serie de posibles escenarios desarrollados en algunos pasos como son: la atención, el interés, la decisión de deseo y la acción.
 
-    p.mb-5 A continuación, se detalla cada uno de los pasos mencionados.
+    p.mb-5 Se detalla cada uno de los pasos mencionados anteriormente:
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row
@@ -163,7 +163,7 @@
             li 
               i.fas.fa-angle-right
               | Venta multinivel.
-
+    p.mb-5 A continuación, se presenta un video en el que se pueden visualizar los tipos de venta:
       figure.mb-5(data-aos="zoom-in-down")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -175,7 +175,7 @@
 
       p Para la construcción de cualquier <b>plan de ventas</b>, es necesario cuantificar el volumen de ventas que se realiza al cliente actual o potencial, y verificar las características de la compra y el cumplimiento del plan de ventas. Es importante mantener este registro, pues permite evaluar el logro de las proyecciones o metas y la efectividad de las estrategias en la zona geográfica o segmento.
 
-      p.mb5 A continuación, se presentan los siguientes términos que hacen parte del plan de ventas.
+      p.mb5 Veamos, los términos que hacen parte del plan de ventas:
 
       .row.mb-5
         .col-lg-7
@@ -201,8 +201,9 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-5
-          h5 Tabla 1. 
-          span Formato de registros
+          h5 Tabla 1
+          p.mb-0
+            em Formato de registros
 
         .color-acento-contenido
           .tabla-b__header
@@ -238,8 +239,9 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-5
-          h5 Tabla 2. 
-          span Plan de ventas
+          h5 Tabla 2
+          p.mb-0
+            em Plan de ventas
 
         .color-acento-contenido
           .tabla-b__header
@@ -294,7 +296,7 @@
             p.mb-0 Según Ferrel y Hartline (s.f), “El control y la evaluación de la fuerza de ventas, requiere de una comparación de los objetivos de ventas con el desempeño real. Este análisis se puede realizar en el nivel de cada vendedor o para toda la fuerza de ventas. Para evaluar a un vendedor de manera efectiva, es necesario crear normas de desempeño predeterminadas. Estas normas también deben determinar el plan de compensación para la fuerza de ventas”(p. 345).
             i.fas.fa-quote-right
 
-    p.mb-5 En ese sentido, podemos decir que, para implementar un plan de evaluación, control y monitoreo de la fuerza de ventas, podemos establecer los siguientes pasos:      
+    p.mb-5 En ese sentido, podemos decir que, para implementar un plan de evaluación, control y monitoreo de la fuerza de ventas, podemos establecer los siguientes pasos:    
 
     .tarjeta.bg_3.p-4.mb-5
       PasosB.color-primario
@@ -327,7 +329,7 @@
 
     p Es importante que tengamos presente las normas ISO, no solo en la producción sino en la distribución de nuestro producto o servicio, cuya aplicación permite lograr impactos positivos en la imagen, eficiencia, satisfacción del cliente y el funcionamiento de la organización. Por esto, debemos mantenernos actualizados en cuanto a las modificaciones que se hagan. La mayoría de las empresas han implementado en sus procesos las normas ISO: 9001, 9004, 14000 y 28000, porque promueven la construcción de procesos eficientes, flexibles, efectivos y eficaces, por medio del aseguramiento de la calidad y la satisfacción del cliente en un contexto donde se conserve el medio ambiente. 
 
-    p.mb-5 A continuación, se presenta una serie de normas generales que se pueden consultar:
+    p.mb-5 Las normas generales que se pueden consultar son:
 
     .row.mb-5.align-items-stretch.d-flex.h-100
       .col-md-3.col-lg.mb-5.mb-lg-0.align-items-stretch.d-flex.h-100
@@ -361,13 +363,13 @@
 
     p Al momento del contacto con el cliente, el equipo comercial debe realizar un estudio del cliente, en aspectos como la personalidad, los comportamientos de compra y las conductas, con el objetivo de enfrentarse a las diferentes situaciones que se presentan en un proceso de venta y negociación. Las preguntas claves para el vendedor en el momento de ofrecer un producto o servicio son: ¿quién compra?, ¿qué compra?, ¿por qué compra?, ¿cómo lo compra?, ¿cuándo compra?, ¿dónde compra?, entre otros.
 
-    p.mb-5 Dentro del primer aspecto, es importante conocer la personalidad que se puede encontrar en los clientes.
+    p.mb-5 Dentro del primer aspecto, es importante conocer la personalidad que se puede encontrar en los clientes:
 
     .row.mb-5.bg_4
       .col-lg-6.mb-4.mb-md-0
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Cliente difícil")
-            p.mb-0 Persona rigurosa, exigente y difícil de satisfacer con el producto o servicio que adquiere
+            p.mb-0 Persona rigurosa, exigente y difícil de satisfacer con el producto o servicio que adquiere.
           div(titulo="Cliente amigable")
             p.mb-0 Persona cordial, amable, afable y conversadora.
           div(titulo="Cliente tímido")
@@ -381,7 +383,7 @@
 
     p Seguidamente, sigue el segundo aspecto. el cual hace referencia al comportamiento que pueden tomar los clientes al momento de realizar una compra.
 
-    p.mb-5 A continuación, se presentan los tipos de comportamiento de compras.
+    p.mb-5 Los tipos de comportamiento de compras son:
 
     .row.align-items-center.justify-content-center.mb-2(data-aos="fade-down")
       .col-9.col-lg-5.mb-3
@@ -422,7 +424,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.fondo-2.cont_top
     p.mt-5 Finalmente, se presenta el tercer aspecto el cual hace referencia a las conductas que se presentan al momento de realizar las compras.
 
-    p.mb-5 A continuación, se presentan estas conductas.
+    p.mb-5 A continuación, se presentan estas conductas:
     .row.justify-content-center.align-items-center
       .col-lg-8.mb-4.mb-md-0
         .tarjeta-avatar-b

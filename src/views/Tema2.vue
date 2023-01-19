@@ -13,7 +13,7 @@
       .col-lg-6.text-small
         p La comunicación es una competencia que todas las personas, en especial las que se encuentran involucradas en las áreas de ventas, deben desarrollar para poder interactuar y responder adecuadamente a las necesidades del cliente. El vendedor cuenta con habilidades y estudios especializados para tener una buena relación con las ventas y esto lo guía a tener herramientas que faciliten su trabajo para concretar una negociación.
 
-    p.mb-5 A continuación, se presentan los hechos más relevantes del marketing a lo largo del tiempo.
+    p.mb-5 Los conceptos claves de la comunicación, se presentan a continuación:
 
     .row.mb-5.tab_1
       .col-lg-8
@@ -41,7 +41,7 @@
 
     h3.mb-5 La comunicación verbal y no verbal
     p La comunicación verbal y no verbal es primordial en todo proceso de venta, debido a que permite establecer lazos de confianza y de respeto entre el asesor comercial y el comprador. Estos lazos ayudan a realizar una venta personalizada enfocada en satisfacer las necesidades reales del cliente. 
-    p.mb-5 A continuación, se presentan algunos ejemplos de comunicación verbal y no verbal.
+    p.mb-5 La comunicación verbal y no verbal se puede ejemplificar así:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4").align-items-stretch.d-flex.h-100
       .tarjeta.bg_1.p-4.h-100

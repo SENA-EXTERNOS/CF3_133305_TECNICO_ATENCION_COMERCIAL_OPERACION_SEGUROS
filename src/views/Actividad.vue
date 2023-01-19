@@ -11,7 +11,9 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
           h2 Técnicas de ventas, comunicación y propuesta comercial
-        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de enunciados o párrafos de las temáticas de técnicas de ventas, canales de comunicación y propuesta comercial, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
+        p.mb-3 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+        p.mb-5 De acuerdo con la definición planteada en la columna izquierda, arrastre cada término al lugar que considere correcto de la columna derecha.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

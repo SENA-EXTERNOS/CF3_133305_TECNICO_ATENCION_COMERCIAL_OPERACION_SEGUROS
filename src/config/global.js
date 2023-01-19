@@ -123,15 +123,16 @@ export default {
   },
   complementario: [
     {
-      tema: 'Técnicas de venta',
+      tema: 'Ventas',
       referencia:
-        'Aprendiz Libros. (2021). Los que conocen estas técnicas de ventas, venden más [video]. YouTube. ',
+        'Aprendiz Libros. (2021). <em>Los que conocen estas técnicas de ventas, venden más</em> [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=JHxICWE25HU',
     },
     {
       tema: 'Técnicas de venta',
-      referencia: 'Luengo, M., & Gómez, F. (2006). Operaciones de venta. ',
+      referencia:
+        'Luengo, M., & Gómez, F. (2006). <em>Operaciones de venta.</em>',
       tipo: 'Libro',
       link:
         'https://books.google.com.co/books?id=Mn86kxWxq3sC&printsec=copyright#v=onepage&q&f=false',
