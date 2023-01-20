@@ -10,7 +10,7 @@
     .row.mb-5
       .col-lg-6.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_3/img_1.png', alt='Texto que describa la imagen')
-      .col-lg-6.text-small
+      .col-lg-6
         p La propuesta comercial es un instrumento en el que el cliente tendrá toda la información sobre el producto o servicio que tiene la empresa, incluyendo plazos de entrega, valores y formas de pago. Durante este proceso, el marketing, vendedores y consumidores pasan por algunas etapas que van desde la conquista del cliente, la relación que se forma con él ante la empresa, hasta la firma de contrato o celebración del negocio. Por eso se puede decir que es por medio de la propuesta comercial que el cliente tiene la información sobre el producto o servicio.
 
     .row.mb-5.justify-content-center
@@ -35,7 +35,8 @@
           p(numero="5" titulo="Metodología adoptada") La metodología se debe explicar al cliente de manera pedagógica con el fin de alcanzar los objetivos presentados en el documento. Es importante que la presentación, técnicas, software, programas y equipos incluidos se destaquen y llamen el interés del cliente, con el fin de mostrar generar una buena imagen de la compañía.
           p(numero="6" titulo="Cronograma de trabajo") Es fundamental realizar un cronograma donde se presenten de manera detallada las actividades a realizar, los tiempos de ejecución y entrega de cada producto o labor realizada. Cabe resaltar que este cronograma puede estar apoyado en gráficos, diagramas y tablas que le permitan al cliente conocer la forma en cómo se ejecutará el servicio presentado en la propuesta comercial. La claridad y la sinceridad deben ser la base de toda propuesta comercial.
           p(numero="7" titulo="Valores y formas de pago") El valor cobrado es el factor de decisión más utilizado por quien contrata. Es importante crear una tabla en la que se tenga espacio para un breve resumen de lo que está incluido en el valor, la carga horaria del trabajo y el precio, identificando si el valor cobrado es por hora trabajada, mensual, trimestral, semestral, etc. Una vez mostrados los valores, el vendedor debe incluir las condiciones de pago adoptadas por la empresa y la validez de la oferta comercial, que generalmente es de 15 días después de la fecha de envío al cliente. Esto debe ir firmado por la empresa que ofrece el producto y por el vendedor.
-
+          
+    h3 Clases de propuesta comercial
     p Después de conocer cómo es la creación de la propuesta comercial, se conocerán las diferentes clases en las que podrá recibir o realizar una propuesta comercial dependiendo del cliente o proceso en el que se encuentre la organización.
 
     p.mb-5 Para esto, lo invitamos a conocer las diferentes clases de propuestas comerciales que existen:

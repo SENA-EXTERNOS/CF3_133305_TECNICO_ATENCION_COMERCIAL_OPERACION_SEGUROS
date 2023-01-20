@@ -130,7 +130,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=JHxICWE25HU',
     },
     {
-      tema: 'Técnicas de venta',
+      tema: 'Ventas',
       referencia:
         'Luengo, M., & Gómez, F. (2006). <em>Operaciones de venta.</em>',
       tipo: 'Libro',
@@ -140,14 +140,14 @@ export default {
     {
       tema: 'Canales de comunicación',
       referencia:
-        'Profe Marilin. (2021). ¿Qué es la comunicación? Proceso y elementos de la comunicación [video]. YouTube.',
+        'Profe Marilin. (2021).<em> ¿Qué es la comunicación? Proceso y elementos de la comunicación</em> [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=KujFJsEOPTs',
     },
     {
       tema: 'Propuesta Comercial ',
       referencia:
-        'Asesor Empresario - ASESUISA El Salvador. (2022). Metodología - "Que debe de incluir una propuesta comercial exitosa" [video]. YouTube. ',
+        'Asesor Empresario - ASESUISA El Salvador. (2022). <em>Metodología - "Que debe de incluir una propuesta comercial exitosa"</em> [video]. YouTube. ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=iACzc6PyxYE',
     },
@@ -205,21 +205,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Ferrel, O. C. y Hartline, M. D. (2012). Estrategia de marketing.',
+        'Ferrel, O. C. y Hartline, M. D. (2012). <em>Estrategia de marketing.</em>',
       link:
         'http://www.elmayorportaldegerencia.com/Libros/Mercadeo/%5BPD%5D%20Libros%20-%20Estrategia%20de%20Marketing.pdf',
     },
 
     {
       referencia:
-        'Kotler, P. y Armstrong, G. (2013). Fundamentos de Marketing.',
+        'Kotler, P. y Armstrong, G. (2013).<em> Fundamentos de Marketing.</em>',
       link:
         'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
     },
 
     {
       referencia:
-        'Tilve, M.V. (2010). Introducción al Marketing Estratégico. San Francisco: Creative Commons Attribution',
+        'Tilve, M.V. (2010). <em>Introducción al Marketing Estratégico.</em> San Francisco: Creative Commons Attribution',
       link:
         'https://books.google.com.pe/books?id=u__jNFaVDc0C&printsec=copyright#v=onepage&q&f=false',
     },
