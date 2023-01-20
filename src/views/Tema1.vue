@@ -219,19 +219,19 @@
               td José Gabriel
               td.text-center 6
               td Jabón, champú, acondicionador
-              td $50.000
+              td.text-center $50.000
               td lunes a jueves
             tr
               td María Alejandra
               td.text-center 8
               td Arroz, pastas, harina
-              td $40.000
+              td.text-center $40.000
               td lunes, miércoles y domingos
             tr
               td Lorena Liseth
               td.text-center 10
               td Aceite, café y chocolate
-              td $70.000
+              td.text-center $70.000
               td sábados y domingos
 
     p.mb-5 Continuando, las empresas deben revisar periódicamente <b>el cumplimiento del plan de ventas</b>, que puede tener como objetivos conseguir clientes nuevos, vender más a clientes actuales y recuperar cuentas. La idea es hacer un comparativo con las ventas reales por segmentos y el plan de ventas propuesto; de esta manera, se pueden ir asignando recursos y personal para su cumplimiento. En la Tabla 2, se presenta como ejemplo un plan de ventas.
@@ -255,34 +255,34 @@
               th.text-center Abril
             tr
               th.table_th2 Contactos	
-              td 100	
-              td 200	
-              td 300	
-              td 400
+              td.text-center 100	
+              td.text-center 200	
+              td.text-center 300	
+              td.text-center 400
             tr
               th.table_th2 Ratio - ventas %	
-              td 15 %	
-              td 15 %	
-              td 15 %	
-              td 15 %
+              td.text-center 15 %	
+              td.text-center 15 %	
+              td.text-center 15 %	
+              td.text-center 15 %
             tr
               th.table_th2 Ventas	
-              td 15	
-              td 30	
-              td 5	
-              td 60
+              td.text-center 15	
+              td.text-center 30	
+              td.text-center 5	
+              td.text-center 60
             tr
               th.table_th2 Precio promedio	
-              td $280.000	
-              td $294.000	
-              td $308.700	
-              td $324.135
+              td.text-center $280.000	
+              td.text-center $294.000	
+              td.text-center $308.700	
+              td.text-center $324.135
             tr
               th.table_th2 Ventas brutas	
-              td $4.200.000	
-              td $8.820.000	
-              td $13.891.500	
-              td $19.448.100
+              td.text-center $4.200.000	
+              td.text-center $8.820.000	
+              td.text-center $13.891.500	
+              td.text-center $19.448.100
 
     h3 Evaluación y control de la fuerza de ventas
 
