@@ -166,8 +166,7 @@
     p.mb-5 A continuación, se presenta un video en el que se pueden visualizar los tipos de venta:
       figure.mb-5(data-aos="zoom-in-down")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Leyenda del video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/WUfnXYuQHXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       separador
       #t_1_2.titulo-segundo.color-acento-contenido.mt-5
