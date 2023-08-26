@@ -11,7 +11,7 @@
       .row.mb-5
         .col-lg-6.mb-4.mb-md-0
           img.img-a(src='@/assets/curso/temas/tema_1/img_2.png', alt='Texto que describa la imagen')
-        .col-lg-6.text-small
+        .col-lg-6
           p Las ventas, son acciones relacionadas con la capacitación, revisión, seguimiento, evaluación y control para el cumplimiento de los objetivos y las metas planteadas en el plan de ventas. En ese sentido, el equipo comercial y los recursos del área, se deben enfocar en la satisfacción del cliente, de manera que se atiendan completamente sus necesidades, inquietudes y sugerencias. Es importante cuando hablamos de ventas, dirigir y capacitar el equipo, asignar recursos, seleccionar medios de comunicación y promoción, monitorear, controlar y evaluar la gestión. También es importante tener en cuenta que deben integrarse elementos éticos en todas las acciones de mercadeo que se lleven a cabo, porque el cliente debe confiar y sentirse respaldado por la empresa. De esta forma, se garantiza el cumplimiento de los objetivos del plan de ventas. 
 
       p.mb-5 A la hora de vender, se tienen en cuenta las características para identificar el cliente potencial, la forma de negociación y el canal de distribución. A continuación, se presentan algunas de estas características:
@@ -178,16 +178,16 @@
 
       .row.mb-5
         .col-lg-7
-          TabsA.color-primario.mb-5
-            .tarjeta.color-primario--borde.p-4(titulo="Contactos")
+          TabsB.color-primario.mb-5
+            .tarjeta.color-primario--borde.p-4.my-3(titulo="Contactos")
               p.mb-0 Es la cantidad de propuestas que se presentarán en cada periodo de tiempo.
-            .tarjeta.color-primario--borde.tb.p-4(titulo="Ratio - venta")
+            .tarjeta.color-primario--borde.p-4.my-3(titulo="Ratio - venta")
               p.mb-0 Refleja un porcentaje de éxito. Es el número de clientes que adquirían el producto y/o servicio, sobre la cantidad de propuestas que se presentarán en cada periodo.    
-            .tarjeta.color-primario--borde.tb_1.p-4(titulo="Ventas")
+            .tarjeta.color-primario--borde.p-4.my-3(titulo="Ventas")
               p.mb-0 Son el resultado de multiplicar contactos por la ratio de ventas. 
-            .tarjeta.color-primario--borde.tb_2.p-4(titulo="Precio <br>promedio")
+            .tarjeta.color-primario--borde.p-4.my-3(titulo="Precio <br>promedio")
               p.mb-0 Es recomendable utilizar el precio neto, es decir descontando promociones, rebajas, etc.
-            .tarjeta.color-primario--borde.tb_3.p-4(titulo="Venta bruta")
+            .tarjeta.color-primario--borde.p-4.my-3(titulo="Venta bruta")
               p.mb-0 Es la multiplicación del precio promedio por las ventas.
         .col-lg-5
           img.img-a(src='@/assets/curso/temas/tema_1/img_14.png', alt='Texto que describa la imagen')

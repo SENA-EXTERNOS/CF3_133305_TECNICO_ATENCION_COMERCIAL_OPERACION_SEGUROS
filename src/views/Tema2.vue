@@ -10,34 +10,32 @@
     .row.mb-5
       .col-lg-6.mb-4.mb-md-0
         img.img-a(src='@/assets/curso/temas/tema_2/img_1.png', alt='Texto que describa la imagen')
-      .col-lg-6.text-small
+      .col-lg-6
         p La comunicación es una competencia que todas las personas, en especial las que se encuentran involucradas en las áreas de ventas, deben desarrollar para poder interactuar y responder adecuadamente a las necesidades del cliente. El vendedor cuenta con habilidades y estudios especializados para tener una buena relación con las ventas y esto lo guía a tener herramientas que faciliten su trabajo para concretar una negociación.
 
     p.mb-5 Los conceptos claves de la comunicación, se presentan a continuación:
 
-    .row.mb-5.tab_1
-      .col-lg-8
-        TabsA.color-primario.mb-5
-          .tarjeta.color-primario--borde.p-4(titulo="Emisor")
+    .row.mb-5
+      .col-lg-12
+        TabsC.color-primario.mb-5
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Emisor")
             p.mb-0 Es quien envía el mensaje a otra parte. 
-          .tarjeta.color-primario--borde.tb.p-4(titulo="Codificación")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Codificación")
             p.mb-0 Proceso de dar a las ideas forma simbiótica o estructura para darse a entender.   
-          .tarjeta.color-primario--borde.tb_1.p-4(titulo="Mensaje")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Mensaje")
             p.mb-0 Conjunto de símbolos, palabras, frases etc., que el emisor transmite. 
-          .tarjeta.color-primario--borde.tb_2.p-4(titulo="Medios")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Medios")
             p.mb-0 Canales de comunicación a través de los cuales el mensaje viaja del emisor al receptor.
-          .tarjeta.color-primario--borde.tb_3.p-4(titulo="Decodificación")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Decodificación")
             p.mb-0 Proceso por el cual el receptor asigna significado a los símbolos codificados por el emisor.
-          .tarjeta.color-primario--borde.tb_4.p-4(titulo="Receptor")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Receptor")
             p.mb-0 Quien recibe el mensaje enviado por la otra parte.
-          .tarjeta.color-primario--borde.tb_5.p-4(titulo="Respuesta")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Respuesta")
             p.mb-0 Relaciones del receptor después de estar expuesto al mensaje.
-          .tarjeta.color-primario--borde.tb_6.p-4(titulo="Retroalimentación")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Retroalimentación")
             p.mb-0 Parte de las respuestas del receptor que se comunica con el emisor.
-          .tarjeta.color-primario--borde.tb_7.p-4(titulo="Ruido")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Ruido")
             p.mb-0 Estática o distorsión no planeada durante la comunicación. El receptor recibe un mensaje diferente al enviado por el emisor.
-      .col-lg-4
-        img.img-a(src='@/assets/curso/temas/tema_2/img_2.png', alt='Texto que describa la imagen')
 
     h3.mb-5 La comunicación verbal y no verbal
     p La comunicación verbal y no verbal es primordial en todo proceso de venta, debido a que permite establecer lazos de confianza y de respeto entre el asesor comercial y el comprador. Estos lazos ayudan a realizar una venta personalizada enfocada en satisfacer las necesidades reales del cliente. 
@@ -83,12 +81,12 @@
 
     .row.mb-5.tab_1
       .col-lg-8
-        TabsA.color-primario.mb-5
-          .tarjeta.color-primario--borde.p-4(titulo="Kinestésica")
+        TabsC.color-primario.mb-5
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Kinestésica")
             p.mb-0 Son los movimientos corporales. Se refiere a la postura, los gestos, los movimientos de cabeza, hombros, piernas y otros ademanes en general. 
-          .tarjeta.color-primario--borde.tb.p-4(titulo="Proxémica")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Proxémica")
             p.mb-0 Es la manera en que cada sociedad o cultura, en particular, percibe los espacios físicos. 
-          .tarjeta.color-primario--borde.tb_1.p-4(titulo="Paralingüística")
+          .tarjeta.color-primario--borde.p-4.mb-3(titulo="Paralingüística")
             p.mb-0 Se refiere a las cualidades de la voz como volumen, ritmo, tono, entonación, textura, dicción, acento, emisión de sonidos, etc.
           
       .col-lg-4
