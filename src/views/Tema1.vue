@@ -12,7 +12,7 @@
         .col-lg-6.mb-4.mb-md-0
           img.img-a(src='@/assets/curso/temas/tema_1/img_2.png', alt='Texto que describa la imagen')
         .col-lg-6
-          p Las ventas, son acciones relacionadas con la capacitación, revisión, seguimiento, evaluación y control para el cumplimiento de los objetivos y las metas planteadas en el plan de ventas. En ese sentido, el equipo comercial y los recursos del área, se deben enfocar en la satisfacción del cliente, de manera que se atiendan completamente sus necesidades, inquietudes y sugerencias. Es importante cuando hablamos de ventas, dirigir y capacitar el equipo, asignar recursos, seleccionar medios de comunicación y promoción, monitorear, controlar y evaluar la gestión. También es importante tener en cuenta que deben integrarse elementos éticos en todas las acciones de mercadeo que se lleven a cabo, porque el cliente debe confiar y sentirse respaldado por la empresa. De esta forma, se garantiza el cumplimiento de los objetivos del plan de ventas. 
+          p Las ventas son acciones relacionadas con la capacitación, revisión, seguimiento, evaluación y control para el cumplimiento de los objetivos y las metas planteadas en el plan de ventas. En ese sentido, el equipo comercial y los recursos del área, se deben enfocar en la satisfacción del cliente, de manera que se atiendan completamente sus necesidades, inquietudes y sugerencias. Es importante cuando hablamos de ventas, dirigir y capacitar el equipo, asignar recursos, seleccionar medios de comunicación y promoción, monitorear, controlar y evaluar la gestión. También es importante tener en cuenta que deben integrarse elementos éticos en todas las acciones de mercadeo que se lleven a cabo, porque el cliente debe confiar y sentirse respaldado por la empresa. De esta forma, se garantiza el cumplimiento de los objetivos del plan de ventas. 
 
       p.mb-5 A la hora de vender, se tienen en cuenta las características para identificar el cliente potencial, la forma de negociación y el canal de distribución. A continuación, se presentan algunas de estas características:
 
@@ -87,30 +87,30 @@
 
     p.mb-5 Para aplicar la técnica SPIN se deben seguir los siguientes pasos:
 
-    .row.mb-5.align-items-stretch.d-flex.h-100
-      .col-lg-3.col-xl-3.mb-4.mb-md-0.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar
+    .row.justify-content-center.mb-5.align-items-stretch.d-flex
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-5
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_9.svg' alt='AvatarTop')
           h4.text-center.mt-3 Situación
           p.text-center Realizar preguntas abiertas al comprador, con el objetivo de construir un entorno para desenvolverse en la negociación con el cliente.
-      .col-lg-3.col-xl-3.mb-4.mb-md-0.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_10.svg' alt='AvatarTop')
           h4.text-center Problema
           p.text-center Identificar las necesidades del cliente que no están satisfechas, por medio de una encuesta, para determinar si se puede tener una relación con el producto o servicio ofrecido.
-      .col-lg-3.col-xl-3.mb-4.mb-md-0.h-100
-        .tarjeta.bg_1.p-4.tem_tar
+      .col-xl-3.col-lg-4.col-6.mb-4.h-100
+        .tarjeta.bg_1.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_11.svg' alt='AvatarTop')
           h4.text-center Implicación
           p.text-center Contextualizar la mente del cliente con el problema que se ha identificado y tener un plan de acción donde lo importante es solucionar la necesidad a corto o largo plazo.
-      .col-lg-3.col-xl-3.mb-4.mb-md-0.h-100
-        .tarjeta.bg_1.p-4.tem_tar
+      .col-xl-3.col-lg-4.col-6.mb-4.h-100
+        .tarjeta.bg_1.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_12.svg' alt='AvatarTop')
@@ -174,7 +174,7 @@
 
       p Para la construcción de cualquier <b>plan de ventas</b>, es necesario cuantificar el volumen de ventas que se realiza al cliente actual o potencial, y verificar las características de la compra y el cumplimiento del plan de ventas. Es importante mantener este registro, pues permite evaluar el logro de las proyecciones o metas y la efectividad de las estrategias en la zona geográfica o segmento.
 
-      p.mb5 Veamos, los términos que hacen parte del plan de ventas:
+      p.mb-5 Veamos los términos que hacen parte del plan de ventas:
 
       .row.mb-5
         .col-lg-7
@@ -292,7 +292,7 @@
         .bloque-texto-b.color-secundario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left  
-            p.mb-0 Según Ferrel y Hartline (s.f), “El control y la evaluación de la fuerza de ventas, requiere de una comparación de los objetivos de ventas con el desempeño real. Este análisis se puede realizar en el nivel de cada vendedor o para toda la fuerza de ventas. Para evaluar a un vendedor de manera efectiva, es necesario crear normas de desempeño predeterminadas. Estas normas también deben determinar el plan de compensación para la fuerza de ventas”(p. 345).
+            p.mb-0 Según Ferrel y Hartline (s.f), “El control y la evaluación de la fuerza de ventas, requiere de una comparación de los objetivos de ventas con el desempeño real. Este análisis se puede realizar en el nivel de cada vendedor o para toda la fuerza de ventas. Para evaluar a un vendedor de manera efectiva, es necesario crear normas de desempeño predeterminadas. Estas normas también deben determinar el plan de compensación para la fuerza de ventas” (p. 345).
             i.fas.fa-quote-right
 
     p.mb-5 En ese sentido, podemos decir que, para implementar un plan de evaluación, control y monitoreo de la fuerza de ventas, podemos establecer los siguientes pasos:    
@@ -331,26 +331,26 @@
     p.mb-5 Las normas generales que se pueden consultar son:
 
     .row.mb-5.align-items-stretch.d-flex.h-100
-      .col-md-3.col-lg.mb-5.mb-lg-0.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar_1
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-5
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_19.svg' alt='AvatarTop')
           p.text-center.mb-0 Certificación Normas ISO 9001.
-      .col-md-3.col-lg.mb-5.mb-lg-0.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar_1
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-5
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_20.svg' alt='AvatarTop')
           p.text-center.mb-0 Sistema de Gestión para Micros y Pequeñas Empresas (PYMES) NTC 6001
-      .col-md-3.col-lg.mb-5.mb-lg-0.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar_1
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-5
             .col-8
               img(src='@/assets/curso/temas/tema_1/img_21.svg' alt='AvatarTop')
           p.text-center.mb-0 Certificación de Sistema de Gestión Ambiental ISO 14001.
-      .col-lg-3.col-xl-3.align-items-stretch.d-flex.h-100
-        .tarjeta.bg_1.p-4.h-100.tem_tar_1
+      .col-xl-3.col-lg-4.col-6.mb-4
+        .tarjeta.bg_1.p-4.h-100
           .row.justify-content-center.mb-5
             .col-8
               img.mt-4(src='@/assets/curso/temas/tema_1/img_22.svg' alt='AvatarTop')
